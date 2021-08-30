@@ -1,16 +1,22 @@
 {
   "short_name": "FatCake Finance",
   "name": "FatCake Finance",
-  "description": "Farm EGG with LP Tokens",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "type": "image/x-icon",
-      "sizes": "256x256"
-    }
-  ],
+  "description": "Farm FatCake with LP Tokens",
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#1FC7D4",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/x-icon",
+      "sizes": "256x256"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
 }
